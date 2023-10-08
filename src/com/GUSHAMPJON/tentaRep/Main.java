@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
      VisibiltyModifiers vis = new VisibiltyModifiers();
-     vis.keyWrodPublic();
+     vis.keyWordPublic();
      vis.NoMod();
 
      ErrorSymboler e = new ErrorSymboler();

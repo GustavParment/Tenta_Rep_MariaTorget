@@ -2,7 +2,7 @@ package com.GUSHAMPJON.tentaRep;
 
 public class VisibiltyModifiers {
 
-    public void keyWrodPublic() {
+    public void keyWordPublic() {
 
         /**Todo- Public
          *   -Global visibility
